@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Fever Check",
+  "description": "An AI-powered mobile app concept that uses the phone's camera to estimate body temperature, track health history, and provide alerts for high fevers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
